@@ -1,0 +1,1 @@
+ /Users/macairm1/Desktop/WORKSPACE/freelance/ruachconnect/.dart_tool/flutter_build/bcb1aea9f994b3114408b12384ec2b9a/native_assets.json: 
